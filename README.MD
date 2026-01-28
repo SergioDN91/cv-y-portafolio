@@ -19,7 +19,6 @@ Este proyecto incluye:
 * Header con efecto Parallax.
 * Sección de Habilidades con iconos.
 * Carrusel de proyectos.
-* Formulario de contacto (visual).
 
 ---
 © 2026 Alexis Oyarzun.
